@@ -111,4 +111,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ❤️ by Mr. Yusuf</p>
+Made with ❤️ by [Fahim Yusuf](https://fahimyusuf.com.bd/)
